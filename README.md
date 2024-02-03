@@ -1,0 +1,1 @@
+For the project to function, place the downloaded and unzipped ffmpeg into the .py folder: https://ffmpeg.org/download.html And also yt-dlp.exe: https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation
